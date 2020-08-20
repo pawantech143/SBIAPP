@@ -18,6 +18,15 @@ public void doPay123(){
 
 
                            }
+    
+    
+    
+    public void init(){
+
+
+                           }
+
+
 
 
 
