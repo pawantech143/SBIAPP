@@ -11,7 +11,7 @@ public class HibernateUtilApp {
 	}
 
 	public static SessionFactory getSessionFactory() {
-                  
+                  Sout("hii git");
 		return sf;
 	}
 }
