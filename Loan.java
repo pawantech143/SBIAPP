@@ -13,10 +13,12 @@ Class Loan{
                            }
 
 
+
 public void doPay123(){
 
 
                            }
+
 
 
 }
