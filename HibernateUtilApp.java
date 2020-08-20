@@ -11,7 +11,7 @@ public class HibernateUtilApp {
 	}
 
 	public static SessionFactory getSessionFactory() {
-                    sf = new Configuration().configure().buildSessionFactory();
+                  
 		return sf;
 	}
 }
